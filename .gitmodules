@@ -1,0 +1,3 @@
+[submodule "eliza-py"]
+	path = eliza-py
+	url = https://github.com/rdimaio/eliza-py.git
